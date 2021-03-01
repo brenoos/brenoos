@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/brenoos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.oliver07@gmail.com)](mailto:breno.oliver07@gmail.com)
 
- - 💙   Full Stack Software Engineer @ RankMyApp
- - 🌱   Currently learning Golang and Flutter
+ - 💙   Tech Lead @ Dasa
+ - 🌱   Currently learning Elixir
  - 🎮   Gamer
  - 💬   Passion for teaching and speaking
 
