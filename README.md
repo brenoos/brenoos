@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.oliver07@gmail.com)](mailto:breno.oliver07@gmail.com)
 
  - 💙   Tech Lead @ Dasa
- - 🌱   Currently learning Elixir
+ - 🌱   Currently learning Elixir and Flutter
  - 🎮   Gamer
  - 💬   Passion for teaching and speaking
 
