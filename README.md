@@ -10,5 +10,5 @@
  - 🎮   Gamer
  - 💬   Passion for teaching and speaking
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brenoos&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoos&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoos&layout=compact&langs_count=7&theme=radical"/>
