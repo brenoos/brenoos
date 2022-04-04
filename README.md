@@ -9,6 +9,7 @@
  - 🌱   Currently learning Elixir and Flutter
  - 🎮   Gamer
  - 💬   Passion for teaching and speaking
-
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoos&layout=compact&langs_count=7&theme=radical"/>
+</div>
