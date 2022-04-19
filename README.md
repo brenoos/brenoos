@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/brenoos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.oliver07@gmail.com)](mailto:breno.oliver07@gmail.com)
 
- - 🧡   Software Engineer @ Foxbox Digital
+ - 👨🏼‍💻  Software Engineer @ Binary Star
  - 💜   Creator for Experts Club @ Rocketseat
  - 🌱   Currently learning Elixir and Flutter
  - 🎮   Gamer
