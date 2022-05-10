@@ -6,7 +6,7 @@
 
  - 👨🏼‍💻  Software Engineer @ Binary Star
  - 💜   Creator for Experts Club @ Rocketseat
- - 🌱   Currently learning Elixir and Flutter
+ - 🌱   Currently learning Remix and Svelte
  - 🎮   Gamer
  - 💬   Passion for teaching and speaking
 <div align="center">
