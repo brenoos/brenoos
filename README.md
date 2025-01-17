@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.oliver07@gmail.com)](mailto:breno.oliver07@gmail.com)
 
  - 👨🏼‍💻  Software Engineer @ Levio
- - 🇨🇦  Currently Living in Canada
+ - 🇧🇷  Currently Living in Brazil
  - 🎮  Gamer
  - 💬  Passion for teaching and speaking
 <div align="center">
